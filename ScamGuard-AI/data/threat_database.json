@@ -1,0 +1,18 @@
+{
+  "known_scam_domains": [
+    "sbi-verify-now.com",
+    "fake-bank-login.in",
+    "claim-reward-now.xyz",
+    "paytm-reactivate-login.com",
+    "kyc-update-bank.top"
+  ],
+  "known_scam_keywords": [
+    "share otp",
+    "verify kyc immediately",
+    "account will be blocked",
+    "claim your reward",
+    "pay processing fee",
+    "send aadhaar number",
+    "upi services restricted"
+  ]
+}
