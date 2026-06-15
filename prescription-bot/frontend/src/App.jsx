@@ -118,7 +118,7 @@ function App() {
     formData.append("file", selectedFile);
 
     try {
-      const response = await fetch("http://127.0.0.1:8000/analyze-prescription", {
+      const response = await fetch("http://43.204.111.61:8000/analyze-prescription", {
         method: "POST",
         body: formData,
       });
