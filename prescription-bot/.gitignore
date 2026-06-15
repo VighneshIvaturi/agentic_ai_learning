@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+prescriptbotenv/
+backend/prescriptbotenv/
+
+# Environment variables
+.env
+backend/.env
+
+# Logs
+logs/
+*.log
+backend/logs/
+
+# Uploads and generated files
+uploads/
+backend/uploads/
+pdf_pages/
+backend/pdf_pages/
+docx_images/
+backend/docx_images/
+test_data/
+backend/test_data/
+
+# Node
+node_modules/
+frontend/node_modules/
+
+# Build
+dist/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
